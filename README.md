@@ -1,3 +1,3 @@
 # demo1
-first git repo
+first git repo \n
 Author- AJ
